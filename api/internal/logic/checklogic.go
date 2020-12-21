@@ -25,10 +25,6 @@ func NewCheckLogic(ctx context.Context, svcCtx *svc.ServiceContext) CheckLogic {
 
 func (l *CheckLogic) Check(req types.CheckReq) (*types.CheckResp, error) {
 	// 手动代码开始
-	return &types.CheckResp{
-		Found: true,
-		Price: 22222,
-	},nil
 	resp, err := l.svcCtx.Checker.Check(l.ctx, &checker.CheckReq{
 		Book:  req.Book,
 	})
