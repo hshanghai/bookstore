@@ -6,7 +6,7 @@
 今天终于调通了，截图一下，后续我把遇到的问题和看过的文章都总结一下，能让初入go门槛的同学，搭建起这个微服务。
 
 ### 服务保障
-1.启动命令~ etcd  [参考地址](https://blog.csdn.net/chinawangfei/article/details/94555155 )
+1.启动命令~ etcd  [参考地址](https://blog.csdn.net/chinawangfei/article/details/94555155 )  
 2.启动微服务add ~ go run add.go -f ./etc/add.yaml  
 3.启动微服务check ~ go run check.go -f ./etc/check.yaml  
 4.启动api服务 ~ go run bookstore.go -f ./etc/bookstore-api.yaml  
