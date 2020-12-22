@@ -8,9 +8,6 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.15.5/libexec" />
-  <component name="GoLibraries">
-    <option name="indexEntireGoPath" value="false" />
-  </component>
   <component name="ProjectId" id="1ly9wtWY5X7llUdp5GyTGuaGOBh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,10 +17,27 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build bookstore" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="bookstore" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <sudo value="true" />
+      <kind value="DIRECTORY" />
+      <filePath value="$PROJECT_DIR$" />
+      <package value="bookstore" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -33,9 +47,30 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608559705020">
+    <state x="496" y="225" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608567542399">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608559705020" />
+    <state x="496" y="225" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608567542399" />
+    <state x="496" y="225" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.23.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1608567100282" />
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom" timestamp="1608616054418">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.bottom/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608616054418" />
+    <state width="1750" height="392" key="GridCell.Tab.0.center" timestamp="1608616054417">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.center/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608616054417" />
+    <state width="1750" height="392" key="GridCell.Tab.0.left" timestamp="1608616054416">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.left/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608616054416" />
+    <state width="1750" height="392" key="GridCell.Tab.0.right" timestamp="1608616054418">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="392" key="GridCell.Tab.0.right/1792.0.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1608616054418" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1608568512306">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/1792.23.2560.1417/0.0.1792.1120@0.0.1792.1120" timestamp="1608568512306" />
   </component>
 </project>
